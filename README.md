@@ -1,4 +1,4 @@
-﻿# Property Management Analytics
+﻿# Property Portfolio — Occupancy, Leasing & Financial Analytics
 
 A property-portfolio analytics model covering occupancy, leasing, maintenance, marketing, and financial performance.
 
